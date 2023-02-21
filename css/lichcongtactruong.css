@@ -1,0 +1,31 @@
+table{
+    width:100%;
+    line-height: 30px;
+    border-collapse:collapse;
+    border-color: rgb(127, 127, 240);
+    text-align: center;
+}
+td:first-child{
+    width: 100px;
+}
+td:last-child{
+    width: 100px;
+}
+tr:first-child{
+    color: red;
+    font-weight: bold;
+}
+.buoi{
+    color: red;
+    font-weight: bold;
+}
+.ngay{
+    color: red;
+    font-weight: bold;
+}
+h2{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+    text-align: center;
+}
